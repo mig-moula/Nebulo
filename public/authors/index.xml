@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Authors on Nebulo</title>
-    <link>//localhost:1313/authors/</link>
-    <description>Recent content in Authors on Nebulo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>nebulo@pm.me (Nebulo)</managingEditor>
-    <webMaster>nebulo@pm.me (Nebulo)</webMaster>
-    <copyright>© 2026 Nebulo</copyright>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Nebulo</title><link>http://nebulo.cc/authors/</link><description>Recent content in Authors on Nebulo</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nebulo@pm.me (Nebulo)</managingEditor><webMaster>nebulo@pm.me (Nebulo)</webMaster><copyright>© 2026 Nebulo</copyright><atom:link href="http://nebulo.cc/authors/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

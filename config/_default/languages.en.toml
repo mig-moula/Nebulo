@@ -1,6 +1,4 @@
 disabled = false
-locale = "en"
-label = "English"
 weight = 1
 title = "Nebulo"
 
@@ -12,7 +10,7 @@ dateFormat = "2 January 2006"
 logo = "m"
 secondaryLogo = "j"
 
-["params.author"]
+[params.author]
 name = "Nebulo"
 email = "nebulo@pm.me"
 image = "747.png"
