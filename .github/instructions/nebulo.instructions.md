@@ -11,7 +11,7 @@ applyTo: "**"
 - **Nom du site** : Nebulo
 - **Thématique** : Sécurité informatique (cybersécurité, CTF, outils, write-ups…)
 - **Langue par défaut** : Anglais (`en`)
-- **Email de contact** : nebulo@pm.me
+- **Email de contact** : nebulo.greedless451@passmail.net
 - **Color scheme Blowfish** : `princess`
 - **Apparence par défaut** : `light` avec `autoSwitchAppearance = true`
 
