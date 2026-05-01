@@ -12,7 +12,7 @@ applyTo: "**"
 - **Thématique** : Sécurité informatique (cybersécurité, CTF, outils, write-ups…)
 - **Langue par défaut** : Anglais (`en`)
 - **Email de contact** : nebulo.greedless451@passmail.net
-- **Color scheme Blowfish** : `princess`
+- **Color scheme Blowfish** : `neon`
 - **Apparence par défaut** : `light` avec `autoSwitchAppearance = true`
 
 ## Structure du projet
@@ -33,8 +33,12 @@ themes/blowfish/      → Thème Blowfish (ne pas modifier directement)
 - **Outputs home** : HTML, RSS, JSON (requis pour la recherche)
 - **Formats mathématiques** : LaTeX via Goldmark passthrough (`$$...$$`, `\[...\]`, `\(...\)`)
 - **Homepage layout** : `background`
-- **Header layout** : `fixed-fill-blur`
+- **Header layout** : `fixed`
 - **Image de fond par défaut** : `6839103.jpg`
+- **Recherche** : désactivée (`enableSearch = false`)
+- **Copie de code** : désactivée (`enableCodeCopy = false`)
+- **Hero image** : désactivée par défaut (`showHero = false`)
+- **Table des matières** : désactivée par défaut (`showTableOfContents = false`)
 
 ## Frontmatter des articles
 
@@ -48,12 +52,13 @@ draft: false
 description: "Courte description (utilisée pour le SEO et les cards)"
 tags: ["tag1", "tag2"]
 categories: ["categorie"]
-series: [""]           # optionnel
+series: []             # optionnel
 authors: ["Nebulo"]    # correspond à la taxonomie authors
 showReadingTime: true
 showTableOfContents: true
 showTags: true
 showCategories: true
+showWordCount: true
 ---
 ```
 
@@ -92,3 +97,5 @@ hugo new content/posts/mon-article/index.md
 - Suggérer des shortcodes Blowfish adaptés plutôt que du HTML inline
 - Vérifier la compatibilité des paramètres avec `config/_default/params.toml` avant de proposer des modifications
 - Ne pas modifier `themes/blowfish/` directement
+- La recherche est désactivée — ne pas ajouter de composants ou de liens liés à la recherche
+- `showTableOfContents` et `showHero` sont `false` par défaut — les activer explicitement dans le frontmatter si besoin

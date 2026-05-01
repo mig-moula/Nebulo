@@ -27,6 +27,18 @@ We firmly believe that:
 
 ---
 
+## No Paywalls, No Ad Traps
+
+We openly call out websites that hide content behind paywalls, stuffed ads links, or aggressive monetization flows built only for profit.
+
+For us, sharing knowledge should come first. Money should never be the reason people are blocked from information that could help them learn, build, and improve.
+
+That is not how Nebulo works.
+
+We do not build this platform to trap users behind ads or paid gates. We build it to share.
+
+---
+
 ## Our Code of Ethics
 
 We have a code of ethics that is very rare these days, but which was the norm in the early days of piracy – not to mention the C-word.

@@ -1,9 +1,9 @@
 ---
 title: "Nebulo"
-description: "Cybersecurity, CTF write-ups, tools and research."
+description: "Group archivist on internet"
 ---
 
-Welcome to **Nebulo**, a group dedicated primarily to preserving video games, but in the future we plan to expand to include all sorts of things, such as apps and software, movie download sites, abandonware games, and more. We’re looking for partners—feel free to contact us!
+Welcome to **Nebulo**, a group dedicated primarily to preserving video games, but in the future we plan to expand to include all sorts of things, such as apps and software, movie download sites, abandonware games, and more. We’re looking for partners—feel free to contact us! We strive to bring together the best websites in their respective fields that share our principles: no ads, transparent use of donated funds (if donations are accepted), and not acting like they’re God (it may sound silly, but people forget they’re behind a screen)
 In the meantime, here are our partner sites:
 
 <style>

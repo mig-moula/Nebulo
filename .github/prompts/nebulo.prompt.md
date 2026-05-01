@@ -27,6 +27,7 @@ series: []
 authors: ["Nebulo"]
 showReadingTime: true
 showTableOfContents: true
+showHero: true
 showTags: true
 showCategories: true
 showWordCount: true
